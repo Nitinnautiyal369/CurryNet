@@ -57,7 +57,7 @@ Most introductory vision projects stop at standard datasets like CIFAR-10 or Cat
    streamlit run app.py
    ```
 
-*(Optional) To retrain the model from scratch, place your class folders inside a `dataset/` directory and run `python train2.py`.*
+ To retrain the model from scratch, place your class folders inside a `dataset/` directory and run `python train2.py`.*
 
 ---
 
