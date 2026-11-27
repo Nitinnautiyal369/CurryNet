@@ -17,7 +17,7 @@ def load_classes():
 model = load_model()
 class_names = load_classes()
 
-st.title("🥘CurryNet")
+st.title("🥘CurryNettt")
 st.write("Upload a photo of a dish to see what the model thinks it is.")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
